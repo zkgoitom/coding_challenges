@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+gradle
+gradlew.bat
+
+## unignored files include build.gradle, gradlew and settings.gradle

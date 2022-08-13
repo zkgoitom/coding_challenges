@@ -56,7 +56,7 @@ public class LoopHashMap {
         hm.put("d", new Integer(400));
 
         for (Map.Entry<String, Integer> me : hm.entrySet()) {
-            System.out.println(me.getKey() + ":");
+            System.out.print(me.getKey() + ":");
             System.out.println(me.getValue());
         }
 
